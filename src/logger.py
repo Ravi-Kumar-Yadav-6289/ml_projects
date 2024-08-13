@@ -17,5 +17,5 @@ logging.basicConfig(
 
 
 #testing log file creation.
-if __name__=='__main__':
-    logging.info("testing logger")
+# if __name__=='__main__':
+#     logging.info("testing logger")
